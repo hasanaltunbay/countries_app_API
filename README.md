@@ -1,16 +1,15 @@
-# countries_app
+<h3>Screenshots</h3>
 
-A new Flutter project.
 
-## Getting Started
+<img src=https://github.com/hasanaltunbay/countries_app_API/assets/132913817/8897b4c4-59b0-4758-a1a8-0b6471201c9e width="200" height="400" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h3>Architecture and Technologies</h3>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Architecture: MVVM (Model-View-ViewModel) architecture is employed for efficient separation of concerns.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Provider Package: Utilized for efficient state management.
+
+API: In the context of our application, the API section facilitates the retrieval of data from the internet.
+
+
