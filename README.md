@@ -10,6 +10,6 @@ Architecture: MVVM (Model-View-ViewModel) architecture is employed for efficient
 
 Provider Package: Utilized for efficient state management.
 
-API: In the context of our application, the API section facilitates the retrieval of data from the internet.
+API: In the context of our application, the API section enables fetching data from the internet.
 
 
